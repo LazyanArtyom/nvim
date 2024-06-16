@@ -1,0 +1,2 @@
+# nvim
+Nvim (LazyNvim) config
